@@ -5,7 +5,7 @@ A Ecommerce Website made with React.js Framework.
 
 ## Demo
 
-https://reactjs-ecommerce-app.vercel.app/
+https://aman-e-commerce.vercel.app/
 
 ## Features
 
@@ -15,7 +15,8 @@ https://reactjs-ecommerce-app.vercel.app/
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
+<img width="1372" height="768" alt="Screenshot 2025-12-12 at 5 09 30 PM" src="https://github.com/user-attachments/assets/2a3d9c4d-2b09-4b6a-af82-8eb3aff5cfdd" />
+
 
 
 
@@ -59,9 +60,5 @@ Start the server
 Contributions are always welcome!
 Just raise an issue, we will discuss it.
 
-
-## Feedback
-
-If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
 
 
