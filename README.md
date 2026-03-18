@@ -11,6 +11,10 @@ https://eccoommerce.netlify.app/
 
 - Easy to integrate with Backend
 - Fully Responsive
+- Built a fully responsive e-commerce web application with dynamic product listings, category filtering, cart management, and checkout ﬂows.
+-Designed global state management using Redux Toolkit to optimize UI responsiveness and reduce unnecessary re-renders.
+-Consumed external RESTful APIs using asynchronous JavaScript and JSON handling.
+
 
 
 ## Screenshots
@@ -20,45 +24,8 @@ https://eccoommerce.netlify.app/
 
 
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
-```
-
-Go to the project directory
-
-```bash
-  cd React_E-Commerce
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm start
-```
 
 
-
-## Tech Stack
-
-* [React](https://reactjs.org/)
-* [Redux](https://redux.js.org/)
-* [Bootstrap](https://getbootstrap.com/)
-* [Fake Store API](https://fakestoreapi.com/)
-
-## Contributing
-
-Contributions are always welcome!
-Just raise an issue, we will discuss it.
 
 
 
