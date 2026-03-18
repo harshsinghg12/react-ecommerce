@@ -5,7 +5,7 @@ A Ecommerce Website made with React.js Framework.
 
 ## Demo
 
-https://aman-e-commerce.vercel.app/
+https://eccoommerce.netlify.app/
 
 ## Features
 
